@@ -39,7 +39,6 @@ The constrained MV strategy showed stronger risk-adjusted returns than EW in the
 ```text
 notebooks/
   portfolio_optimization.ipynb   # Main analysis and results
-  initial_experiments.ipynb      # Earlier experiments
 
 docs/
   MS4226_Group12_REPORT.pdf      # Group project report (PDF)
