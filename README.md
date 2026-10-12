@@ -42,12 +42,16 @@ notebooks/
   initial_experiments.ipynb      # Earlier experiments
 
 docs/
-  portfolio_optimization.html    # Static HTML export of the main notebook
+  MS4226_Group12_REPORT.pdf      # Group project report (PDF)
 
 requirements.txt
 .gitignore
 README.md
 ```
+
+## Project report
+
+[Read the group project report (PDF)](docs/MS4226_Group12_REPORT.pdf). This was a **group project**; the report credits the contributors.
 
 ## Run locally
 
